@@ -7,3 +7,4 @@
 
 ![image](https://user-images.githubusercontent.com/15323451/174899714-ebdfb6cd-fc2a-4d8c-bab9-b52baa2834b7.png)
 
+Затем войти под логином и паролем demo / demo
